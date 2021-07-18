@@ -1,4 +1,4 @@
-## Team 9 - Predict Product Sales
+## Team 9 - Titanic Survivial Prediction
 
 ### Group Members :
 
